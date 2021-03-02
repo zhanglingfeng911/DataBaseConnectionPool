@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/zlf/zlf_project/DATABASECONN/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/DATABASECONN/include  -g   -o CMakeFiles/ConnectDBPool.dir/CommonConnectionPool.cpp.o -c /home/zlf/zlf_project/DATABASECONN/src/CommonConnectionPool.cpp",
+  "file": "/home/zlf/zlf_project/DATABASECONN/src/CommonConnectionPool.cpp"
+},
+{
+  "directory": "/home/zlf/zlf_project/DATABASECONN/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/DATABASECONN/include  -g   -o CMakeFiles/ConnectDBPool.dir/TimeStamp.cc.o -c /home/zlf/zlf_project/DATABASECONN/src/TimeStamp.cc",
+  "file": "/home/zlf/zlf_project/DATABASECONN/src/TimeStamp.cc"
+},
+{
+  "directory": "/home/zlf/zlf_project/DATABASECONN/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/DATABASECONN/include  -g   -o CMakeFiles/ConnectDBPool.dir/connnection.cpp.o -c /home/zlf/zlf_project/DATABASECONN/src/connnection.cpp",
+  "file": "/home/zlf/zlf_project/DATABASECONN/src/connnection.cpp"
+},
+{
+  "directory": "/home/zlf/zlf_project/DATABASECONN/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/DATABASECONN/include  -g   -o CMakeFiles/ConnectDBPool.dir/logger.cc.o -c /home/zlf/zlf_project/DATABASECONN/src/logger.cc",
+  "file": "/home/zlf/zlf_project/DATABASECONN/src/logger.cc"
+},
+{
+  "directory": "/home/zlf/zlf_project/DATABASECONN/build/src",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7   -I/home/zlf/zlf_project/DATABASECONN/include  -g   -o CMakeFiles/ConnectDBPool.dir/main.cpp.o -c /home/zlf/zlf_project/DATABASECONN/src/main.cpp",
+  "file": "/home/zlf/zlf_project/DATABASECONN/src/main.cpp"
+}
+]
